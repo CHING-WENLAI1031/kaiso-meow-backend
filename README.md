@@ -1,6 +1,7 @@
 # kaiso-meow-backend
 
 > 影音課程販售平台後端服務
+https://kaiso-meow-frontend.onrender.com/#/
 
 **影音課程販售平台 – 後端服務**  
 提供講師/學生帳號系統、課程管理、影片轉檔、購買與訂閱 API。
